@@ -42,10 +42,14 @@
                         </h1>
                     </div>
                     <group>
-                        <field name="gender"/>
-                        <field name="date_of_birth"/>
-                        <field name="guardian"/>
-                        <field name="age"/>
+                        <group>
+                            <field name="gender"/>
+                            <field name="guardian"/>
+                        </group>
+                        <group>
+                            <field name="date_of_birth"/>
+                            <field name="age"/>
+                        </group>
                     </group>
                 </sheet>
             </form>
