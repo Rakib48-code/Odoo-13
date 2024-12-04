@@ -1,0 +1,72 @@
+<odoo>
+    <record id="student_1" model="school.student">
+        <field name="name">Rakib</field>
+        <field name="gender">Male</field>
+        <field name="date_of_birth">2005-02-15</field>
+        <field name="age">19</field>
+        <field name="guardian">Rahim</field>
+    </record>
+    <record id="student_2" model="school.student">
+        <field name="name">Nadia</field>
+        <field name="gender">Female</field>
+        <field name="date_of_birth">2007-06-10</field>
+        <field name="age">17</field>
+        <field name="guardian">Kamal</field>
+    </record>
+    <record id="student_3" model="school.student">
+        <field name="name">Siam</field>
+        <field name="gender">Male</field>
+        <field name="date_of_birth">2006-11-20</field>
+        <field name="age">18</field>
+        <field name="guardian">Salma</field>
+    </record>
+    <record id="student_4" model="school.student">
+        <field name="name">Mitu</field>
+        <field name="gender">Female</field>
+        <field name="date_of_birth">2008-03-05</field>
+        <field name="age">16</field>
+        <field name="guardian">Arif</field>
+    </record>
+    <record id="student_5" model="school.student">
+        <field name="name">Tanvir</field>
+        <field name="gender">Male</field>
+        <field name="date_of_birth">2004-12-12</field>
+        <field name="age">20</field>
+        <field name="guardian">Sharif</field>
+    </record>
+    <record id="student_6" model="school.student">
+        <field name="name">Riya</field>
+        <field name="gender">Female</field>
+        <field name="date_of_birth">2007-09-25</field>
+        <field name="age">17</field>
+        <field name="guardian">Nasrin</field>
+    </record>
+    <record id="student_7" model="school.student">
+        <field name="name">Asif</field>
+        <field name="gender">Male</field>
+        <field name="date_of_birth">2005-01-30</field>
+        <field name="age">19</field>
+        <field name="guardian">Karim</field>
+    </record>
+    <record id="student_8" model="school.student">
+        <field name="name">Niloy</field>
+        <field name="gender">Male</field>
+        <field name="date_of_birth">2006-07-15</field>
+        <field name="age">18</field>
+        <field name="guardian">Munir</field>
+    </record>
+    <record id="student_9" model="school.student">
+        <field name="name">Eva</field>
+        <field name="gender">Female</field>
+        <field name="date_of_birth">2008-05-22</field>
+        <field name="age">16</field>
+        <field name="guardian">Farida</field>
+    </record>
+    <record id="student_10" model="school.student">
+        <field name="name">Arman</field>
+        <field name="gender">Male</field>
+        <field name="date_of_birth">2005-10-08</field>
+        <field name="age">19</field>
+        <field name="guardian">Latif</field>
+    </record>
+</odoo>
