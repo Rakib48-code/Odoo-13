@@ -6,3 +6,4 @@ class SchoolCourse(models.Model):
 
     name = fields.Char(string='Title', required=True)
     description = fields.Text(string='Description')
+    image = fields.Binary(string='Course Image', help='Give here book image')
