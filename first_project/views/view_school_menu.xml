@@ -9,4 +9,9 @@
               parent="school_root_menu"
               sequence="0"/>
 
+    <menuitem id="open_academy_root"
+              name="Academy Details"
+              parent="school_root_menu"
+              sequence="2"/>
+
 </odoo>

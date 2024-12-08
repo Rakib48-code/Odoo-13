@@ -14,6 +14,7 @@ class SchoolStudent(models.Model):
     age = fields.Integer(string='Age', compute='_compute_age')
     guardian = fields.Char(string='Guardian', default='Odoo Mates')
     note = fields.Text(string='Description')
+    image = fields.Binary(string='Image')
 
 
     @api.depends('date_of_birth')

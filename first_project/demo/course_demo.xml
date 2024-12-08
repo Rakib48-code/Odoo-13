@@ -1,0 +1,42 @@
+<odoo>
+    <record id="course_1" model="school.course">
+        <field name="name">course 1</field>
+        <field name="description">Python Programming</field>
+    </record>
+    <record id="course_2" model="school.course">
+        <field name="name">course 2</field>
+        <field name="description">Java Programming</field>
+    </record>
+    <record id="course_3" model="school.course">
+        <field name="name">course 3</field>
+        <field name="description">Web Development</field>
+    </record>
+    <record id="course_4" model="school.course">
+        <field name="name">course 4</field>
+        <field name="description">Data Science</field>
+    </record>
+    <record id="course_5" model="school.course">
+        <field name="name">course 5</field>
+        <field name="description">Machine Learning</field>
+    </record>
+    <record id="course_6" model="school.course">
+        <field name="name">course 6</field>
+        <field name="description">Artificial Intelligence</field>
+    </record>
+    <record id="course_7" model="school.course">
+        <field name="name">course 7</field>
+        <field name="description">Cloud Computing</field>
+    </record>
+    <record id="course_8" model="school.course">
+        <field name="name">course 8</field>
+        <field name="description">Database Management</field>
+    </record>
+    <record id="course_9" model="school.course">
+        <field name="name">course 9</field>
+        <field name="description">Cyber Security</field>
+    </record>
+    <record id="course_10" model="school.course">
+        <field name="name">course 10</field>
+        <field name="description">Mobile App Development</field>
+    </record>
+</odoo>
